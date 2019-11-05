@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "target": "es5",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "lib": ["es2015", "dom", "dom.iterable"]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

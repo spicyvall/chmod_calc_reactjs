@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import Permissions from "./components/Permissions";
+import '@atlaskit/css-reset';
+import Permissions from "./components/Permissions/Permissions";
 
 export default class App extends React.Component {
 
