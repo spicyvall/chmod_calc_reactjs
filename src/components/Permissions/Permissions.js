@@ -6,10 +6,6 @@ import ChmodValue from "../ChmodValue/ChmodValue";
 const options = ["Read", "Write", "Execute"];
 const extra = ["Sticky", "SGID", "SUID"];
 
-function createCheckboxes() {
-
-}
-
 export default class Permissions extends Component {
 
     state = {
