@@ -1,0 +1,13 @@
+div {
+    padding-left: 20px;
+    display: inline-block;
+}
+
+.row {
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
